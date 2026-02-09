@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+ALAMGIR+KHAN;%F0%9F%92%BB+FULL-STACK+MERN+ARCHITECT;%F0%9F%A7%A0+DSA+EXPERT+%7C+300%2B+SOLVED;%F0%9F%94%A5+SCALABLE+SYSTEMS+DESIGNER" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=200&color=F7DF1E&center=true&vCenter=true&width=700&lines=✨+REACT+•+NEXT.JS+•+TYPESCRIPT+•+NODE+•+EXPRESS+•+MONGODB+•+REDUX+•+DOCKER" alt="Skills Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=F7DF1E&center=true&vCenter=true&width=800&lines=⚛️+React+•+🟢+Node+•+📦+Express+•+🍃+MongoDB+•+📘+TypeScript+•+🚀+Next.js" alt="Skills Sliding" />
 </div>
 
 <p align="center">
@@ -19,27 +19,12 @@
 
 ---
 
-## 🛠️ The Tech Arsenal (Animated Icons)
+## 🛠️ The Tech Arsenal (Animated Marquee)
 
-### 🔥 Frontend Mastery
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite,threejs,jquery&perline=13" />
-  </a>
-</p>
-
-### ⚡ Backend & Data Logic
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql,postman,apollo,redis,prisma&perline=13" />
-  </a>
-</p>
-
-### 🔧 DevOps & Architecture
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,figma,linux,cpp,c,py,bash,replit&perline=13" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite,threejs,jquery&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql,postman,apollo,redis,prisma,docker,git&theme=dark" />
 </p>
 
 ---
@@ -86,7 +71,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/alamgir-khan-24"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alamgirkhan2486@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 <div align="center">
