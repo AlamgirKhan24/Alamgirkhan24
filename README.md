@@ -67,16 +67,21 @@
 ## 📊 Engineering Analytics
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlamgirKhan24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamgirKhan24&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
+  <!-- Streak Stats -->
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlamgirKhan24&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=AlamgirKhan24&theme=tokyonight" alt="Contribution Graph" />
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=AlamgirKhan24&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
