@@ -23,23 +23,17 @@
 
 ### 🔥 Frontend Mastery
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite,threejs,jquery&perline=13" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite,threejs,jquery&perline=13" />
 </p>
 
 ### ⚡ Backend & Data Logic
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql,postman,apollo,redis,prisma&perline=13" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql,postman,apollo,redis,prisma&perline=13" />
 </p>
 
 ### 🔧 DevOps & Architecture
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,figma,linux,cpp,c,py,bash,replit&perline=13" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,figma,linux,cpp,c,py,bash,replit&perline=13" />
 </p>
 
 ---
@@ -72,12 +66,16 @@
 ## 📊 Engineering Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlamgirKhan24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamgirKhan24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlamgirKhan24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamgirKhan24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlamgirKhan24&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlamgirKhan24&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api/snake?github_user=AlamgirKhan24&color_snake=%2300D4FF&color_dots=%23161b22%2C%23004b5c%2C%23007a94%2C%2300a9cc%2C%2300d4ff" alt="Snake Animation" />
 </div>
 
 ---
@@ -86,7 +84,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/alamgir-khan-24"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alamgirkhan2486@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://github.com/AlamgirKhan24"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 <div align="center">
