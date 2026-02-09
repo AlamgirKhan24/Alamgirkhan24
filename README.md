@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ The Tech Arsenal (Animated Icons)
+##  Languages and Tools:
 
 ### 🔥 Frontend Mastery
 <p align="left">
